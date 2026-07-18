@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Goat">
+  <rect width="320" height="240" fill="#0f172a"/>
+  <circle cx="82" cy="38" r="92" fill="#7c3aed" opacity=".18"/>
+  <circle cx="260" cy="198" r="100" fill="#22c55e" opacity=".17"/>
+  <path d="M78 134c0-45 36-81 81-81h2c45 0 81 36 81 81v46H78v-46Z" fill="#e5e7eb"/>
+  <path d="M104 60 78 23c29 2 51 23 55 51l-29-14ZM216 60l26-37c-29 2-51 23-55 51l29-14Z" fill="#94a3b8"/>
+  <path d="M121 151h78c0 28-18 50-39 50s-39-22-39-50Z" fill="#cbd5e1"/>
+  <circle cx="132" cy="110" r="8" fill="#020617"/>
+  <circle cx="188" cy="110" r="8" fill="#020617"/>
+  <path d="M149 132h22l-11 12-11-12Z" fill="#020617"/>
+  <path d="M160 145v22" stroke="#020617" stroke-width="6" stroke-linecap="round"/>
+</svg>

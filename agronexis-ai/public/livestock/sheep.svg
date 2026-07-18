@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Sheep">
+  <rect width="320" height="240" fill="#0f172a"/>
+  <circle cx="260" cy="60" r="92" fill="#0ea5e9" opacity=".18"/>
+  <circle cx="70" cy="210" r="110" fill="#22c55e" opacity=".14"/>
+  <g fill="#f8fafc">
+    <circle cx="91" cy="138" r="35"/>
+    <circle cx="126" cy="106" r="42"/>
+    <circle cx="170" cy="101" r="48"/>
+    <circle cx="214" cy="125" r="42"/>
+    <circle cx="190" cy="162" r="38"/>
+    <circle cx="135" cy="164" r="42"/>
+  </g>
+  <path d="M132 109c0-28 23-51 51-51s51 23 51 51v45c0 28-23 51-51 51s-51-23-51-51v-45Z" fill="#1f2937"/>
+  <circle cx="164" cy="128" r="7" fill="#f8fafc"/>
+  <circle cx="203" cy="128" r="7" fill="#f8fafc"/>
+  <path d="M176 150h16l-8 10-8-10Z" fill="#f8fafc"/>
+</svg>

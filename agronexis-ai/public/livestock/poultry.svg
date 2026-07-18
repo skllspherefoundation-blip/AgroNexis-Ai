@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Poultry">
+  <rect width="320" height="240" fill="#0f172a"/>
+  <circle cx="78" cy="44" r="90" fill="#22c55e" opacity=".18"/>
+  <circle cx="250" cy="204" r="95" fill="#7c3aed" opacity=".18"/>
+  <path d="M112 142c0-43 35-78 78-78h10c38 0 68 30 68 68v49H112v-39Z" fill="#f8fafc"/>
+  <path d="M87 119c0-27 22-49 49-49h13c27 0 49 22 49 49v62H87v-62Z" fill="#e5e7eb"/>
+  <path d="M125 63c-17-23 8-45 25-25 16-24 48-7 35 22" fill="#ef4444"/>
+  <circle cx="134" cy="115" r="7" fill="#020617"/>
+  <path d="M94 126 56 111l38-14v29Z" fill="#f59e0b"/>
+  <path d="M154 145c12 12 28 12 40 0" stroke="#020617" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>
